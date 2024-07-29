@@ -1,5 +1,5 @@
 <hr/>
-<div style="display: flex;justify-content: space-around;">
+<div style="display: none;justify-content: space-around;">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='40'>
 <img src='https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png' alt='github' height='40'>
 <img
