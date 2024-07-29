@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**yasinabedini/yasinabedini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<div style="display: flex;justify-content: space-around;">
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='40'>
+<img src='https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png' alt='github' height='40'>
+<img
+src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png' alt='github' height='40' style="margin-right: 15px;">
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png' alt='github' height='40' style="margin-right: 10px;">
+<img src='https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg' alt='github' height='40'>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGUQBj2AGeHbeHzjW4AS0VOCMara3BDjX7w&s' alt='github' height='40' style="margin-left: -5px;">
+<img src='https://clipground.com/images/sql-server-logo-png-1.png' alt='github' height='40' style="margin-left: -5px;">
+<img src='https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-7f7e4npz.png' alt='github' height='50' style="margin-right: 5px;">
+<img src='https://swimburger.net/media/ppnn3pcl/azure.png' alt='github' height='40' >
+</div>
+<hr/>
