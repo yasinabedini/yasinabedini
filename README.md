@@ -8,7 +8,7 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 <img src='https://www.opc-router.de/wp-content/uploads/2020/05/REST_socialmedia.jpg' alt='github' height='40'>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGUQBj2AGeHbeHzjW4AS0VOCMara3BDjX7w&s' alt='github' height='40' style="margin-left: -5px;">
 <img src='https://clipground.com/images/sql-server-logo-png-1.png' alt='github' height='40' style="margin-left: -5px;">
-<img src='https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-7f7e4npz.png](https://dwglogo.com/wp-content/uploads/2017/09/1300px-Docker_container_engine_logo.pn)' alt='github' height='50' style="margin-right: 5px;">
+<img src='https://dwglogo.com/wp-content/uploads/2017/09/1300px-Docker_container_engine_logo.png' alt='github' height='50' style="margin-right: 5px;">
 <img src='https://swimburger.net/media/ppnn3pcl/azure.png' alt='github' height='40' >
 </div>
 <hr/>
