@@ -1,4 +1,12 @@
-<hr/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <hr/>
 <div style="display: none;justify-content: space-around;">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='40'>
 <img src='https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png' alt='github' height='40'>
@@ -12,3 +20,5 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 <img src='https://swimburger.net/media/ppnn3pcl/azure.png' alt='github' height='40' >
 </div>
 <hr/>
+</body>
+</html>
