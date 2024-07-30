@@ -1,6 +1,6 @@
 <hr/>
 <div style="display: none;justify-content: space-around;">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='60'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='55'>
 <img src='https://static-00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png' alt='github' height='65'>
 <img
 src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png' alt='github' height='65' style="margin-right: 15px;">
