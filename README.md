@@ -18,8 +18,6 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 <hr/>
 
 ```c#
-private class MyLife
-{
 namespace Human.Iraninan.Abedini.Yasin
 {
     internal class MyLife
@@ -41,7 +39,6 @@ namespace Human.Iraninan.Abedini.Yasin
             Linkedin = "https://linkedin.com/in/yasin-abedini-5289a6234";
         }
     }
-}
 }
 ```
 
