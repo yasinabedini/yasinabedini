@@ -10,5 +10,6 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 <img src='https://aptech.ng/wp-content/uploads/2023/10/mssql_icon.png' alt='github' height='65' style="margin-left: -5px;">
 <img src='https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png' alt='github' height='65' style="margin-right: 5px;">
 <img src='https://swimburger.net/media/ppnn3pcl/azure.png' alt='github' height='65' >
+<img src='https://grpc.io/img/logos/grpc-icon-color.png' alt='github' height='65' >
 </div>
 <hr/>
