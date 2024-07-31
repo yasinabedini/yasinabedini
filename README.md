@@ -3,6 +3,7 @@
 Enthusiastic developer with interest in designing web services and management panels. Skilled in Net development and committed to creating innovative solutions. Eager to join a technology team that values ​​creativity and excellence. I am excited about the opportunity to bring valuable expertise to a mission-driven organization. In the last few months, in addition to working remotely in the company, I have been focusing on mastering Blazor and you can see the portfolios in the pinned repositories.
 
 <br/>
+
 ## Technologies that I use
 
 <div style="display: none;justify-content: space-around;">
