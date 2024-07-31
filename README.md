@@ -25,7 +25,7 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 ## My life class
 
 ```c#
-namespace Human.Iraninan.Abedini.Yasin
+namespace Human.Programmers.Iraninan.Abedini.Yasin
 {
     internal class MyLife
     {
