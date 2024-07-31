@@ -18,8 +18,12 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 <hr/>
 
 ```c#
-console.readline
+private class MyLife
+{
+public string FirstName {set;get;}
 
+}
+```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yasinabedini)](https://github.com/ryo-ma/github-profile-trophy)
 
