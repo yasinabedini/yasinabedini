@@ -20,8 +20,28 @@ src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.sv
 ```c#
 private class MyLife
 {
-public string FirstName {set;get;}
+namespace Human.Iraninan.Abedini.Yasin
+{
+    internal class MyLife
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string JobTitle { get; set; }
+        public List<string> Skills { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Linkedin { get; set; }
 
+        public MyLife()
+        {
+            FirstName = "Yasin";
+            LastName = "Abedini";
+            JobTitle = ".NET developer";
+            Skills = new List<string> { ".Net",".Net Core","Blazor","Azure","gRPC","docker","mssql", "Microservices","core API","...." };
+            PhoneNumber = "+989106966244";
+            Linkedin = "https://linkedin.com/in/yasin-abedini-5289a6234";
+        }
+    }
+}
 }
 ```
 
