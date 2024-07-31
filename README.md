@@ -1,3 +1,6 @@
+Enthusiastic developer with a passion for designing web services and admin panels. Skilled in .Net development and committed to creating innovative solutions. Eager to contribute to a tech-savvy team that values creativity and excellence. Excited about the opportunity to bring valuable expertise to a mission-driven organization.
+
+
 <hr/>
 
 ### Hi there 👋, Technologies
