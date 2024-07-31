@@ -4,7 +4,7 @@ Enthusiastic developer with interest in designing web services and management pa
 
 <hr/>
 
-### Hi there 👋, Technologies
+## Technologies that I use
 
 <div style="display: none;justify-content: space-around;">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png' alt='github' height='60'>
