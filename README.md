@@ -1,6 +1,8 @@
 ## About me
 
-Enthusiastic developer with interest in designing web services and management panels. Skilled in Net development and committed to creating innovative solutions. Eager to join a technology team that values ​​creativity and excellence. I am excited about the opportunity to bring valuable expertise to a mission-driven organization. In the last few months, in addition to working remotely in the company, I have been focusing on mastering Blazor and you can see the portfolios in the pinned repositories.
+I am an information security expert working primarily on the Blue Team side, but I also conduct research and training on the Red Team side. My goal is to explore security from both defensive and offensive perspectives.
+I have a strong interest in automation, although not in every area.
+I share some proof-of-concept (PoC) projects on my GitHub, where my focus is mostly on expanding and sharing knowledge related to the Red Team
 
 <br/>
 
@@ -28,7 +30,7 @@ namespace Human.Programmers.Iraninan.Abedini.Yasin
             FirstName = "Yasin";
             LastName = "Abedini";
             JobTitle = "Security Specialist";
-            Skills = new List<string> { "Red Team Operations", "Log Analysis", "Scripting", "SIEM Tools", "Windows Internals", "C2 Frameworks"};
+            Skills = new List<string> { "Red Team Operations", "Log Analysis", "Scripting", "SIEM Tools", "Windows Internals", "C2 Frameworks" , ".NET" , "Programming"};
             Linkedin = "https://linkedin.com/in/yasin-abedini-5289a6234";
             Email = "yasinabedini.net@gmail.com";
             AboutMe = "Passionate .NET developer with experience in cloud-native applications, microservices, and modern web technologies.";
