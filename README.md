@@ -12,14 +12,13 @@ namespace Human.Programmers.Iraninan.Abedini.Yasin
 {
     internal class MyLife
     {
- public string FirstName { get; set; }
+        public string FirstName { get; set; }
         public string LastName { get; set; }
         public string JobTitle { get; set; }
         public List<string> Skills { get; set; }
         public string PhoneNumber { get; set; }
         public string Linkedin { get; set; }
         public string Email { get; set; }
-        public List<string> Projects { get; set; }
         public string AboutMe { get; set; }
         public List<string> Languages { get; set; }
         public int YearsOfExperience { get; set; }
@@ -28,20 +27,13 @@ namespace Human.Programmers.Iraninan.Abedini.Yasin
         {
             FirstName = "Yasin";
             LastName = "Abedini";
-            JobTitle = ".NET Developer";
-            Skills = new List<string> { ".NET", ".NET Core", "Blazor", "Azure", "gRPC", "Docker", "MSSQL", "Microservices", "Core API" };
-            PhoneNumber = "+989106966244";
+            JobTitle = "Security Specialist";
+            Skills = new List<string> { "Red Team Operations", "Log Analysis", "Scripting", "SIEM Tools", "Windows Internals", "C2 Frameworks"};
             Linkedin = "https://linkedin.com/in/yasin-abedini-5289a6234";
-            Email = "your.email@example.com"; // ایمیل خودت رو اینجا بذار
-            Projects = new List<string>
-            {
-                "Project A - Microservices Architecture",
-                "Project B - Azure Cloud Deployment",
-                "Project C - Blazor Web Application"
-            };
+            Email = "yasinabedini.net@gmail.com";
             AboutMe = "Passionate .NET developer with experience in cloud-native applications, microservices, and modern web technologies.";
-            Languages = new List<string> { "Persian (Native)", "English (Fluent)" };
-            YearsOfExperience = 5;
+            Languages = new List<string> { "Persian (Native)", "English (intermediate)" };
+            YearsOfExperience = 3;
         }
     }
 }
